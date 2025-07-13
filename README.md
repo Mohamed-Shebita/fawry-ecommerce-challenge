@@ -1,8 +1,17 @@
-# Fawry Ecommerce OOP Challenge
+# 🛒 Fawry Ecommerce OOP Challenge
 
-This project is a Java-based console application developed as part of the **Fawry Rise Journey Full Stack Development Internship** challenge.
+This repository contains the solution to the **Fawry Rise Journey Full Stack Development Internship** technical challenge.
 
-It demonstrates object-oriented programming principles applied to a simplified e-commerce system.
+## 🚀 Project Overview
+
+The application supports:
+- Different product types: Expirable and Non-Expirable
+- Cart and checkout functionality
+- Shipping logic based on product weight
+- Expiry and stock validation
+- Dynamic billing and shipping notices
+
+The system is designed using clean object-oriented programming principles.
 
 ## Technologies Used
 
@@ -10,7 +19,7 @@ It demonstrates object-oriented programming principles applied to a simplified e
 - Maven
 - IntelliJ IDEA
 
-## How to Run
+## How to Run this program
 
 Clone the repository, then build and run using your preferred Java IDE or Maven CLI.
 
@@ -19,3 +28,4 @@ git clone https://github.com/Mohamed-Shebita/fawry-ecommerce-challenge.git
 cd fawry-ecommerce-challenge
 mvn compile
 mvn exec:java -Dexec.mainClass="com.fawry.challenge.DemoMain"
+![output](https://github.com/user-attachments/assets/ee582295-55ab-4738-8eae-9341fac04a03)
