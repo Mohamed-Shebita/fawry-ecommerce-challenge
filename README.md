@@ -28,4 +28,5 @@ git clone https://github.com/Mohamed-Shebita/fawry-ecommerce-challenge.git
 cd fawry-ecommerce-challenge
 mvn compile
 mvn exec:java -Dexec.mainClass="com.fawry.challenge.DemoMain"
-![output](https://github.com/user-attachments/assets/ee582295-55ab-4738-8eae-9341fac04a03)
+```
+![output](https://github.com/user-attachments/assets/c3672f11-a1b8-49cf-a865-9f07771d1974)
